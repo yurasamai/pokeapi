@@ -1,0 +1,26 @@
+.App {
+  
+  padding-top: 135px !important;
+  min-height: 100vh;
+}
+
+.navbar {
+  background-color: #ef5350 !important;
+
+}
+
+.nav-letters {
+  font-size: 30px;
+  
+}
+
+
+.center-v {
+  margin-top: auto;
+margin-bottom: auto;
+}
+
+
+body {
+  background-color: transparent !important;
+}
